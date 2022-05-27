@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Senior Tech Lead Data Scientist and Machine Learning Engineer. I have applied AI/ML experience in many industries i.e. advertising, telco, banking, and creative domain. Innovator, Entrepreneur with a slight hint of Madness.
+I am a Senior Tech Lead Data Scientist and Machine Learning Engineer. I have applied AI/ML experience in many industries i.e. advertising, telco, banking, and creative domain. Innovator, Entrepreneur with a slight hint of Madness.
 
 - 🔭 I’m currently working on production grade deep learning and ML models.
 - 🌱 I read latest research papers in AI/ML domain to keep me updated. 
